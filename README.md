@@ -1,6 +1,6 @@
 # Myopia Clusters
 
-In this project use unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Then, create a visualization that shares findings. 
+In this project I used unsupervised learning to a model and used clustering algorithms to place data into groups. Then, created a visualization that shares the findings. 
 
 ### Finding better ways to predict myopia, or nearsightedness. 
 
